@@ -1,1 +1,5 @@
-# CS-370-Mod8-Journal
+The work we did on this project was learning about multiple neural networks and how they function. Depending on the architecture structure the neural network will perform a task with a different prioritization. The Python code we created was used to create the loops for executing epochs, which would perform different tasks such as analyzing images or finding its way through a maze.
+
+Computer scientists improve computer systems and create new technologies to enhance the mundane day to day tasks. As new innovations become available to the public, computer scientists find way to improve those products. An example would be the Roomba, with a multitude of various vacuum cleaner systems in market a customer has an abundance of options. The Roomba is an additional choice computer scientist created that automates the cleaning process. This technology is helpful for those who may have issues being able to move around their house or reach certain areas. 
+
+Ethical responsibilities are high since the systems and companies are entrusted with securing the users personal data. This data can be susceptible to data loss or spillage if not maintained and stored properly. 
